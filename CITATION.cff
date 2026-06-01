@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the associated paper."
+title: "Achieving residential energy targets in the EU: A multi country comparison of regulatory and economic instruments (code and data)"
+authors:
+  - family-names: "Özer"
+    given-names: "Ece"
+    affiliation: "Energy System Economics Lab, Institute of Net-Zero Energy Systems, TU Wien"
+    orcid: ""
+  - family-names: "Conselvan"
+    given-names: "Francesca"
+    affiliation: "e-think, Vienna"
+  - family-names: "Harringer"
+    given-names: "Daniel"
+    affiliation: "e-think, Vienna"
+  - family-names: "Müller"
+    given-names: "Andreas"
+    affiliation: "e-think, Vienna"
+  - family-names: "Kranzl"
+    given-names: "Lukas"
+    affiliation: "Energy System Economics Lab, Institute of Net-Zero Energy Systems, TU Wien"
+date-released: 2026-06-01
+license: MIT
+preferred-citation:
+  type: article
+  title: "Achieving residential energy targets in the EU: A multi country comparison of regulatory and economic instruments"
+  authors:
+    - family-names: "Özer"
+      given-names: "Ece"
+    - family-names: "Conselvan"
+      given-names: "Francesca"
+    - family-names: "Harringer"
+      given-names: "Daniel"
+    - family-names: "Müller"
+      given-names: "Andreas"
+    - family-names: "Kranzl"
+      given-names: "Lukas"
+  journal: "Energy Policy"
+  year: 2026
+  notes: "Manuscript under review."
