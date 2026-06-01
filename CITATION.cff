@@ -1,6 +1,7 @@
 cff-version: 1.2.0
-message: "If you use this software or data, please cite the associated paper."
-title: "Achieving residential energy targets in the EU: A multi country comparison of regulatory and economic instruments (code and data)"
+message: "If you use this software or data, please cite the associated paper and the archived dataset."
+title: "Building stock model outputs and analysis code for EPBD Article 9(2) residential target compliance in seven EU Member States"
+doi: 10.5281/zenodo.20493676
 authors:
   - family-names: "Özer"
     given-names: "Ece"

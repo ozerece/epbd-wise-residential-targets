@@ -1,5 +1,7 @@
 # Achieving residential energy targets in the EU
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20493676.svg)](https://doi.org/10.5281/zenodo.20493676)
+
 Code and data for the paper:
 
 > **Achieving residential energy targets in the EU: A multi country comparison
@@ -87,7 +89,13 @@ Invert/Opt building stock model, calibrated to the 2020 base year.
 
 ## Citation
 
-If you use this code or data, please cite the paper (see `CITATION.cff`).
+If you use this code or data, please cite the paper (see `CITATION.cff`) and
+the archived dataset:
+
+> Özer, E., Conselvan, F., Harringer, D., Müller, A., Kranzl, L. (2026).
+> *Building stock model outputs and analysis code for EPBD Article 9(2)
+> residential target compliance in seven EU Member States.* Zenodo.
+> https://doi.org/10.5281/zenodo.20493676
 
 ## License
 
